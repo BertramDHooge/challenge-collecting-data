@@ -23,8 +23,8 @@ Contributors : [Lena](https://github.com/Len-Fid), [Anika](https://github.com/an
 * JSON
 
 ## Usage:
-* The code can be run through [this file in Jupyter Notebook](https://github.com/Len-Fid/challenge-collecting-data/blob/main/scraping_that_demo.ipynb)
-* Demo version containing 30 links can be seen in [this file](https://github.com/Len-Fid/challenge-collecting-data/blob/main/scraping_that_demo.ipynb)
+After cloning the repo simply run this as you would any other jupyter notebook. If you want to scrape the data yourself you can run the [main notebook](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_josn.ipynb), or if you just want a visual walkthrough but don't want to have the large time investment required to run the main project you can use the [demo version](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_demo.ipynb), this will do the exact same steps as the main notebook, but has been edited to scrape significantly less data, thus reducing the time required. 
+
 
 ## Walk through of this scraping challenge:
 * Locating elements of the source code of the requisite URL from the immoweb.be/en web site
