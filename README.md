@@ -9,21 +9,14 @@
 
   
 ## The timeline of the project: 
-**28/02/22 - 01/03/22**
-
+* *28/02/22 - 01/03/22*
 
 ## Objectives of the project: 
 * Scrape a website containing information about the Belgian house market
 * Build a dataset from scratch
 
-## Libraries used:
-* Selenium 
-* BeautifulSoup
-* Pandas 
-* JSON
-
 ## Usage:
-After cloning the repo simply run this as you would any other jupyter notebook. If you want to scrape the data yourself you can run the [main notebook](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_josn.ipynb), or if you just want a visual walkthrough but don't want to have the large time investment required to run the main project you can use the [demo version](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_demo.ipynb), this will do the exact same steps as the main notebook, but has been edited to scrape significantly less data, thus reducing the time required. 
+After cloning the repo simply run this as you would any other jupyter notebook. If you want to scrape the data yourself you can run the [main notebook](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_json.ipynb), or if you just want a visual walkthrough but don't want to have the large time investment required to run the main project you can use the [demo version](https://github.com/BertramDHooge/challenge-collecting-data/blob/main/scraping_that_demo.ipynb), this will do the exact same steps as the main notebook, but has been edited to scrape significantly less data, thus reducing the time required. 
 
 
 ## Walk through of this DIY scraping challenge:
